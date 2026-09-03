@@ -1,0 +1,25 @@
+id: I9658BC87
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-LC-001
+  title: ༄༅། །ཤྲ དྡཱ ཡཱ ར ཐ བི མོ ཀྵ མ ཧཱ ནི དྷི དྷ རྨ རཱ ཛ སྱ ནཱ མ བི ཧ ར ཏི སྨ།
+    །
+  author: མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི། ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི། ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
+  sku: MIN-LC-001
+  cover: MIN-LC-001.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཤྲ དྡཱ ཡཱ ར ཐ བི མོ ཀྵ མ ཧཱ ནི དྷི དྷ རྨ རཱ ཛ སྱ ནཱ མ བི ཧ ར ཏི སྨ།
+    །
+  authors: *id001
+  sku: MIN-LC-001
+  cover: MIN-LC-001.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
